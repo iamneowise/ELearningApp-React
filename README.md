@@ -1,5 +1,5 @@
 ![](https://bn1305files.storage.live.com/y4mzAYxmbIIC_nmvccsxcMxIn078c3vVvo2hjmltqaoRhEtWlZnI3JdbZUICY8PZjRjDjzi6d47a7zaC2NaTN9AaLfskm8L0JfZYbvlVV9x9FK4MITpOUlH2De2JA_E0Cx8wETaL1rGxOma5KhqurIUC9RHIZDz5CTBIExxgZ37CNy0EUsamWWWsrg03qQy3hRe?width=369&height=137&cropmode=none)
-# iamneo | Ecommerce | E-Learning | Angular-Springboot-Fullstack-App
+# iamneo | Ecommerce | E-Learning | React-Springboot-Fullstack-App
 
 
 **Objective:**
@@ -70,7 +70,7 @@ E-Learning resource is an online application to be built education based website
 
 |               | Technology Stack                                                                 |                          |   |   |
 |---------------|----------------------------------------------------------------------------------|--------------------------|---|---|
-| Frontend      | Angular 7+                                                                        | Bootstrap or Bulma      |   |   |
+| Frontend      | React 16+                                                                        | Bootstrap or Bulma       |   |   |
 | Server Side   | Spring BootSpring Web (Rest Controller)Spring SecuritySpring AOPSpring Hibernate |                          |   |   |
 | Core Platform | OpenJDK 11                                                                       |                          |   |   |
 | Database      | MySQL or H2                                                                      |                          |   |   |
